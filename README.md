@@ -1,4 +1,32 @@
-# omr
+
+company's link to docs and the mvp
+
+
+'https://docs.google.com/document/d/1uTtTHwZkLb80Xu4rKDsnDveBIvBFHHjL3lRzF2tYNyQ/edit'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # omr
 
 omr is a simple python2 **o**ptical **m**ark **r**ecognition script. It takes as input an image of an answered answer sheet and outputs which alternatives were marked. Scroll down for an example.
 
@@ -61,4 +89,4 @@ test_omr.py .                                                                   
 
 ====================================================== 1 passed in 1.61 seconds ======================================================
 
-```
+``` -->
