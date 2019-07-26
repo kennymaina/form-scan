@@ -7,6 +7,9 @@ company's link to docs and the mvp
 
 
 
+running code 
+
+python2 omr.py --input img/answered-sheet-photo.jpeg  --output /tmp/results.png --show
 
 
 
