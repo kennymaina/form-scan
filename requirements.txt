@@ -8,7 +8,7 @@ Django==1.11
 django-bootstrap3==11.0.0
 django-braces==1.13.0
 django-model-utils==3.1.2
-django-registration==2.4.1
+django-registration==3.1.2
 django-star-ratings==0.7.0
 django-tinymce==2.8.0
 idna==2.8
