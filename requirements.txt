@@ -15,7 +15,7 @@ idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-numpy==1.16.4
+numpy==1.22.0
 opencv-contrib-python==3.4.3.18
 opencv-python==4.1.0.25
 pbr==5.2.0
